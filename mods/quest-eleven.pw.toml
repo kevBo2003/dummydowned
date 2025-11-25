@@ -1,0 +1,13 @@
+name = "Quest Eleven"
+filename = "questeleven-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XajRtI6n/versions/SphD7AuT/questeleven-1.1.jar"
+hash-format = "sha512"
+hash = "10f6c3107cc5b72d0748555f0aeaa6a656bc8e25c8e98c2cc1daac5d49bad4f6e3e2d447bca93689dc1c76b57ec19797e65709cc6b1f0beb6549cb5862eea85a"
+
+[update]
+[update.modrinth]
+mod-id = "XajRtI6n"
+version = "SphD7AuT"
