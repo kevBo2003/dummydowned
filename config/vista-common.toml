@@ -1,0 +1,3 @@
+[general]
+	#If true, TVs placed next to each other will connect into a larger screen (WIP)
+	connected_tv = false

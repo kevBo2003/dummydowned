@@ -1,0 +1,27 @@
+	[television.live_feed]
+		#Render distance that television will use when rendering the live feed. Decreasing this will improve the performance of TVs, possibly by a lot
+		# Default: 64
+		# Range: 1 ~ 256
+		render_distance = 64
+		#How many times per second the television updates its live feed texture. Lowering this will improve performance but make the video less smooth, fractions work too
+		# Default: 10.0
+		# Range: 0.0 ~ 60.0
+		update_fps = 10.0
+		#The minimum update fps for live feed. The mod will throttle update rate when fps are low so this serves at a lower limit
+		# Default: 4.0
+		# Range: 0.0 ~ 60.0
+		min_update_fps = 4.0
+		#The maximum number of milliseconds all the logic for updating live feeds can take before throttling begins. Lowering this will improve performance but make the video less smooth. 16.66ms equals to 5fps
+		# Default: 16.66
+		# Range: 0.0 ~ 1000000.0
+		throttling_update_ms = 16.66
+		#Distance from a TV after which the feed will update in real time
+		# Default: 20.0
+		# Range: 1.0 ~ 512.0
+		update_distance = 20.0
+		#Scale factor for live feed resolution
+		# Default: 8
+		# Range: 1 ~ 32
+		resolution_scale = 8
+		#Enables rendering of debug information for televisions
+		render_debug = false
