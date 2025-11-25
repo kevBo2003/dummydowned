@@ -1,0 +1,13 @@
+name = "Primal"
+filename = "primal-1.0.7+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/41B2buzz/versions/mfLuQV2e/primal-1.0.7%2B1.21.jar"
+hash-format = "sha512"
+hash = "727ba51a82bd136a6541dc4c56faea0f7f14c90afd42ff5682a6b6556bf2d677a5fdc365bd5b651f48503231676048a11568f74e2613372ed716eb35e070a7c5"
+
+[update]
+[update.modrinth]
+mod-id = "41B2buzz"
+version = "mfLuQV2e"

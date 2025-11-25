@@ -1,0 +1,13 @@
+name = "Kitchen Projectiles"
+filename = "kitchenprojectiles-1.0.6+mc1.21.1+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BYmvNgRP/versions/aimG9ALl/kitchenprojectiles-1.0.6%2Bmc1.21.1%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "151134461a45e9ab9ec23bc49150de67f74c14da9d13cc9b0bbf5957570ae72ea772fceb7a6d876bd6a11415017497ea9fc40dd7a3a34732598a31d51795e0b3"
+
+[update]
+[update.modrinth]
+mod-id = "BYmvNgRP"
+version = "aimG9ALl"

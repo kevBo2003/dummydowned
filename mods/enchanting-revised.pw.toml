@@ -1,0 +1,13 @@
+name = "Enchanting Revised"
+filename = "enchant_revised-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "05743f3e163d154f45ea5728395775397deb7842"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6628480
+project-id = 1280520

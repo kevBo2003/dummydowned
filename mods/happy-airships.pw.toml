@@ -1,0 +1,13 @@
+name = "Happy Airships"
+filename = "happy_airships-neoforge-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6scGEDpe/versions/jSD5PuBN/happy_airships-neoforge-1.1.1.jar"
+hash-format = "sha512"
+hash = "6d1de8011058ad5d1cb4af231de35d8b3361affa0d30dcf9917add53a1e4d79ea96540bd9d3874d3b3a334444edc71b4a0ab90f12bfbe927d0371912d0083109"
+
+[update]
+[update.modrinth]
+mod-id = "6scGEDpe"
+version = "jSD5PuBN"

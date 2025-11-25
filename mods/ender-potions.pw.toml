@@ -1,0 +1,13 @@
+name = "Ender Potions"
+filename = "ender_potions-1.1.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/i1OXfCg4/versions/WBcVqReI/ender_potions-1.1.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "ba6a153f3a6a0edc8c80acfa90f74a6af564915c544bbffbcdc59f41983a13ec99865a5c9956b9ff3839e3f856f4720b7b75777e8545eaf09feeae75c139ff08"
+
+[update]
+[update.modrinth]
+mod-id = "i1OXfCg4"
+version = "WBcVqReI"

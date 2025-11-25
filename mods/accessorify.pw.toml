@@ -1,0 +1,13 @@
+name = "Accessorify"
+filename = "accessorify-2.3.6+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CVRzrXGP/versions/CmysSYMR/accessorify-2.3.6%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "26f758be722b2eef19913ff727a91282ef8eb70ea35da1df2da336a5419473f8e92b82d5cfad3e0dc67fd75f396c7c5d07fbc9b07156c02cd0632ac1bcfcc0a9"
+
+[update]
+[update.modrinth]
+mod-id = "CVRzrXGP"
+version = "CmysSYMR"

@@ -1,0 +1,13 @@
+name = "Kaleidoscopic"
+filename = "kaleidoscopic-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EpJtowwl/versions/oeD04KMG/kaleidoscopic-neoforge-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "0b043da0f7d90298675beb4da6ad0004da8446ad4360bae0e6b42d4ee83124866523870891c8397f785feca31b7d58d3696e96483303e1ca0ac43ae8be34fdd7"
+
+[update]
+[update.modrinth]
+mod-id = "EpJtowwl"
+version = "oeD04KMG"
