@@ -1019,7 +1019,7 @@ metafile = true
 
 [[files]]
 file = "mods/async-locator-refined.pw.toml"
-hash = "db2cd054e55633c4cb56502ecb084b499fd5ac27e6cf0847d5bf9b90fcbf8ade"
+hash = "66d19266ff9ff4b9795ef649f1ca5a390f3a130c3ae6154941b66250beaae9f9"
 metafile = true
 
 [[files]]
@@ -1054,7 +1054,7 @@ metafile = true
 
 [[files]]
 file = "mods/biolith.pw.toml"
-hash = "e28be9e32294f80bf7be78a1eca5ad0cdc73e2fa636f9f0561d746b4fd2a1fe5"
+hash = "982450fa5a8b4ac26766e5833216af0ae621ea65be402b15692e9b518a65f6e2"
 metafile = true
 
 [[files]]
@@ -1294,7 +1294,7 @@ metafile = true
 
 [[files]]
 file = "mods/grabby-mobs.pw.toml"
-hash = "b246c3cd01516ddee34626592766543695a788e4134e3de7d89ad6ee998d553e"
+hash = "c490b4724c95169088f61fd43f16e35f2e30a8b780433c4477b6ebb25e03de87"
 metafile = true
 
 [[files]]
@@ -1384,12 +1384,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "f8edc1d5fadb1b65f8f869893ec637ec8a5e5f92fb0a7f140e9e62977668f895"
+hash = "d76ebcab75613a924e6f365168d711571acde2a35fbc8d4097b1537b3216c640"
 metafile = true
 
 [[files]]
 file = "mods/lootjs.pw.toml"
-hash = "f198f14985eef1130e638c5c1b4ce690cf768c959f2f9a06db904113f986c971"
+hash = "3cb8c2af4ff6f0ebd692f0098aead2f5eb7ac6d73a54484b59736b383e4db63b"
 metafile = true
 
 [[files]]
@@ -1429,7 +1429,7 @@ metafile = true
 
 [[files]]
 file = "mods/namepain.pw.toml"
-hash = "fba84d6705055b9b1dc5453fc394e0fa0d5e2ae6f756c9dc96b8aade053630d3"
+hash = "fc1996a5eca9d6e4d93796b7ec011942cbe7369096dde1bbdff49255b90b554a"
 metafile = true
 
 [[files]]
@@ -1449,7 +1449,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-mans-delight.pw.toml"
-hash = "2fe12f9d1fc661514a1e2987791fb45613f6ff1cfe353a27e8e717267876476e"
+hash = "65a165b3fd27d59fd3dc0e0edbe2484b1a9d769a4e6ceeb8a50c1bb8f2928ffb"
 metafile = true
 
 [[files]]
@@ -1479,7 +1479,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
+hash = "37ea60e6c08e5fa9d1fb30abbe1fa0899f11ef17b9ff65f4ea05eafa093161ba"
 metafile = true
 
 [[files]]
@@ -1569,12 +1569,12 @@ metafile = true
 
 [[files]]
 file = "mods/separatedleaves.pw.toml"
-hash = "7f72447006a3ce61507f5feb03935581e2b1949253b4dd98cf8816f6722a9dfe"
+hash = "91359beed4420791338a7b28e764e0333840e3b9979f380fdb1a58c7c4947873"
 metafile = true
 
 [[files]]
 file = "mods/simple-death-improvements.pw.toml"
-hash = "93197edb106aa0953517919029104f667d45b2d2910ec62a9d99a5fdb2456960"
+hash = "04ad8b27378b701ef0ce26b3083cd69a28d70444005427cfa9c5364a2b01badd"
 metafile = true
 
 [[files]]
@@ -1684,7 +1684,7 @@ metafile = true
 
 [[files]]
 file = "mods/underground-rivers.pw.toml"
-hash = "5be3e8d3647d11f749a1780d0e898da7312e8b7c4305e5f70de5ba407b89c9a7"
+hash = "f932127b79aec956e2cd832f3c7b3f25b8bf3308486f948fbbee10458c60d680"
 metafile = true
 
 [[files]]
